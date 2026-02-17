@@ -1,2 +1,7 @@
 
 @import "tailwindcss";
+
+.div{
+    background-image:url("Assets/banner-image.png");
+    
+}
